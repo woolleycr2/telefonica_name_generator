@@ -1,0 +1,39 @@
+Gegenstelle
+vor_Umbau
+vor_Einbau
+vor_Rückbau//(dezinstalare)
+Übersicht_Standort//(pt pozele din folderul cu Übersicht/ poze la toata cladirea exterioara)
+Standort_Gesamtansicht//rack usa inchisa
+Rack_Gesamtansicht//poza intreaga rack (usi deschise)
+Beschriftung_am_Gerät//(poza cu NE ID) label
+Router_Gesamtansicht//poza intreaga echipament router Huawei, Coriant, IPclock Huawei
+ADVA_Gesamtansicht//poza router pe care scrie ADVA
+RD_Gesamtansicht//(router negru ADTRAN)
+Beschriftung_vom_Gerät//poza la fibre,legaturi router
+ODF_Gesamtansicht//ODf tot in poza
+ODF_VBK_Gesamtansicht//ODF fibre colorate
+Beschriftung_ODF//poza legaturi din ODF
+Beschriftung_WDM//poza legaturi WDM
+Spleißbox//poza la tavita ODf cu fibre
+Spleißbox_Gesamtansicht//poza la odf tavita inchisa (sau tot cu usi inchise)
+DGUV_vor_Ort_1
+DGUV_vor_Ort_2
+Elektromessprotokoll_vor_Ort
+Beschriftung_Sicherungen//poza cu sigurante cu labels, poza cu zoom
+Powerbox_Gesamtansicht//poza la powerbox intreg
+Erdung_1//router impamantare
+Erdung_2//rack impamantare
+Beschriftung_Switch//echipament albastru
+Switch_Gesamtansicht
+Beschriftung_Stromkabel_Switch
+Beschriftung_Stromkabel_Powerbox//poza la cablu de siguranta ce merge in tablou eticheta 
+Beschriftung_Stromkabel_Router//poza la cablu de siguranta ce merge in router
+Kabelkanal//poza la cabluri, exterioare, groase, vezi poza 
+SFP_Erweiterung
+Cube_Gesamtansicht
+Beschriftung_Cube//(legaturi le CUBE)
+WDM_Gesamtansicht//poza la dwdm (ciena6500, ZTE)
+Besonderheiten//(particularitati)
+Anschlussdose//(cutie de jonctiune)
+Antenne
+Tresor
